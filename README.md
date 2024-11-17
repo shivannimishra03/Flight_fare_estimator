@@ -37,7 +37,6 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 ## Authors
 
-- [Jenin Johna](https://github.com/JeninJP)
-- [Sambitha P Santhosh](https://github.com/sambithaps)
+- [Shivani](https://github.com/shivannimishra03)
 
 
